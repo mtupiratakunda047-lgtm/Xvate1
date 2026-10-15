@@ -1,0 +1,6 @@
+{
+  "name": "CreatVate Delo Minds",
+  "description": "School Robotics, Coding and AI Programme Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
